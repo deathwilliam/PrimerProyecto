@@ -1,0 +1,10 @@
+body{
+          background-color: aliceblue;
+          width: 300px;
+          margin: auto;
+}
+p{
+     color: rgb(26, 26, 26); 
+     font-size: larger; 
+     text-align: justify;   
+}
